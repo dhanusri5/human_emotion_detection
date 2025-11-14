@@ -1,4 +1,5 @@
 Human Emotion Detection (Audio + Facial Expressions)
+-------------------------------------------------------
 
 A multimodal deep learning system that predicts human emotions using speech and facial images. The project combines audio-based and image-based models and merges their embeddings to produce a final emotion classification.
 
