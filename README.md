@@ -64,6 +64,7 @@ Augmentation (rotation, flip, brightness)
 Model Architecture
 ---
 Audio Emotion Model
+--
 
 1D CNN or LSTM
 
